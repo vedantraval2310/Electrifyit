@@ -1,0 +1,452 @@
+[
+    {
+      "licensePlate": "NGX4CPH",
+      "make": "Tesla",
+      "VIN": "KYGKGBXYN5Z184ZKW",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "25-04-2023",
+      "milesDriven": 199
+    },
+    {
+      "licensePlate": "65FEMCT",
+      "make": "Nikola",
+      "VIN": "GH8ZYDE3XW7HNWXUK",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "07-03-2024",
+      "milesDriven": 276
+    },
+    {
+      "licensePlate": "H7MDRKG",
+      "make": "GM Envolv",
+      "VIN": "0CREARYENKERES04F",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "12-12-2023",
+      "milesDriven": 199
+    },
+    {
+      "licensePlate": "9FKNTBR",
+      "make": "GM Envolv",
+      "VIN": "HJCHNPVWGHVUTYAN9",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "01-04-2023",
+      "milesDriven": 280
+    },
+    {
+      "licensePlate": "5S2ZBA3",
+      "make": "GM Envolv",
+      "VIN": "0NN849UBPG7S07EWJ",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "12-03-2024",
+      "milesDriven": 166
+    },
+    {
+      "licensePlate": "RS9CLS0",
+      "make": "GM Envolv",
+      "VIN": "135USCY8DNENMK7UV",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "17-12-2023",
+      "milesDriven": 255
+    },
+    {
+      "licensePlate": "SYC61UR",
+      "make": "Nikola",
+      "VIN": "7L5AE57JWC8KNP5E2",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "16-11-2023",
+      "milesDriven": 236
+    },
+    {
+      "licensePlate": "6CNVB44",
+      "make": "Tesla",
+      "VIN": "9RUB6H2FVUJTKLGCY",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "12-07-2023",
+      "milesDriven": 227
+    },
+    {
+      "licensePlate": "ZETGP1S",
+      "make": "BYD Auto",
+      "VIN": "9MJ8SBKT6APRDEASS",
+      "model": "Class 6F cab & chassis 2022",
+      "type": "Truck",
+      "date": "29-12-2023",
+      "milesDriven": 274
+    },
+    {
+      "licensePlate": "E56XNSD",
+      "make": "Tesla",
+      "VIN": "GSRWTLLW92WXEAUXP",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "07-04-2023",
+      "milesDriven": 278
+    },
+    {
+      "licensePlate": "V9VRV6W",
+      "make": "Nikola",
+      "VIN": "B6ZUK9L6SGT6XSPS5",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "12-07-2023",
+      "milesDriven": 194
+    },
+    {
+      "licensePlate": "658KWK9",
+      "make": "BYD Motors",
+      "VIN": "NEZA9FE5ZR06WFWFV",
+      "model": "K7M '30 Transit Bus, 2021",
+      "type": "Bus",
+      "date": "22-11-2023",
+      "milesDriven": 166
+    },
+    {
+      "licensePlate": "2WY0GW6",
+      "make": "Ree",
+      "VIN": "0U4M6F4YU7EM28WCY",
+      "model": "P7 chassis cab 2023",
+      "type": "Van",
+      "date": "31-01-2024",
+      "milesDriven": 193
+    },
+    {
+      "licensePlate": "VZ9L0DX",
+      "make": "BYD Auto",
+      "VIN": "HAD62PSEZKK414JAE",
+      "model": "Class 6F cab & chassis 2022",
+      "type": "Truck",
+      "date": "11-09-2023",
+      "milesDriven": 130
+    },
+    {
+      "licensePlate": "EPXFB3E",
+      "make": "BYD Auto",
+      "VIN": "R73ME9A76PVMMTFPS",
+      "model": "Class 6F cab & chassis 2022",
+      "type": "Truck",
+      "date": "14-10-2023",
+      "milesDriven": 235
+    },
+    {
+      "licensePlate": "44ECM9T",
+      "make": "Nikola",
+      "VIN": "UFCU13WTWSFARRJL6",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "09-09-2023",
+      "milesDriven": 159
+    },
+    {
+      "licensePlate": "PFRBL79",
+      "make": "Nikola",
+      "VIN": "35L46UWN4GWBRV981",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "23-02-2024",
+      "milesDriven": 233
+    },
+    {
+      "licensePlate": "P9U2XAG",
+      "make": "BYD Auto",
+      "VIN": "XLTXX3WWE3SLMWMYN",
+      "model": "Class 6F cab & chassis 2022",
+      "type": "Truck",
+      "date": "27-05-2023",
+      "milesDriven": 248
+    },
+    {
+      "licensePlate": "PJ9L5M9",
+      "make": "BYD Auto",
+      "VIN": "DLA5T87HZA0XDZK79",
+      "model": "Class 6F cab & chassis 2022",
+      "type": "Truck",
+      "date": "07-03-2024",
+      "milesDriven": 206
+    },
+    {
+      "licensePlate": "CCXLDHK",
+      "make": "Ree",
+      "VIN": "NKBLJY7U4FH1JB9A3",
+      "model": "P7 chassis cab 2023",
+      "type": "Van",
+      "date": "18-07-2023",
+      "milesDriven": 131
+    },
+    {
+      "licensePlate": "AP4U9NW",
+      "make": "GM Envolv",
+      "VIN": "4J9F9YRCW8T4TE2XN",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "28-07-2023",
+      "milesDriven": 272
+    },
+    {
+      "licensePlate": "3N6CHH4",
+      "make": "BYD Auto",
+      "VIN": "A8G6S531N76XX2PP8",
+      "model": "Class 6F cab & chassis 2022",
+      "type": "Truck",
+      "date": "10-12-2023",
+      "milesDriven": 125
+    },
+    {
+      "licensePlate": "W9JGKNW",
+      "make": "BYD Motors",
+      "VIN": "E6330XLX7C8P94W9B",
+      "model": "K7M '30 Transit Bus, 2021",
+      "type": "Bus",
+      "date": "18-02-2024",
+      "milesDriven": 106
+    },
+    {
+      "licensePlate": "DKVXAZX",
+      "make": "Tesla",
+      "VIN": "XT2C6LXFPMZDL5U7E",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "21-06-2023",
+      "milesDriven": 216
+    },
+    {
+      "licensePlate": "PM7502X",
+      "make": "Ree",
+      "VIN": "2U6299Y3CZAVKLMKN",
+      "model": "P7 chassis cab 2023",
+      "type": "Van",
+      "date": "15-02-2024",
+      "milesDriven": 229
+    },
+    {
+      "licensePlate": "D9UNX48",
+      "make": "Tesla",
+      "VIN": "XEYVEBLKE90CA7F12",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "28-02-2024",
+      "milesDriven": 297
+    },
+    {
+      "licensePlate": "41CGPVY",
+      "make": "Nikola",
+      "VIN": "A6YVZL42E6RCVV7AV",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "15-05-2023",
+      "milesDriven": 159
+    },
+    {
+      "licensePlate": "GNJTGTL",
+      "make": "Ree",
+      "VIN": "T4F2DF6W0E11FVD9V",
+      "model": "P7 chassis cab 2023",
+      "type": "Van",
+      "date": "08-09-2023",
+      "milesDriven": 126
+    },
+    {
+      "licensePlate": "166349D",
+      "make": "Ree",
+      "VIN": "TZZRBLWBYR3338KDX",
+      "model": "P7 chassis cab 2023",
+      "type": "Van",
+      "date": "02-04-2023",
+      "milesDriven": 266
+    },
+    {
+      "licensePlate": "70GRUG7",
+      "make": "GM Envolv",
+      "VIN": "GSG9NBPHH2ME514SM",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "29-07-2023",
+      "milesDriven": 106
+    },
+    {
+      "licensePlate": "T6RNLJT",
+      "make": "Nikola",
+      "VIN": "AKKW83X3HCUNF22CE",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "15-08-2023",
+      "milesDriven": 252
+    },
+    {
+      "licensePlate": "WHJW9HJ",
+      "make": "BYD Motors",
+      "VIN": "U55KVCF527670K2V2",
+      "model": "K7M '30 Transit Bus, 2021",
+      "type": "Bus",
+      "date": "15-04-2023",
+      "milesDriven": 190
+    },
+    {
+      "licensePlate": "PBT024J",
+      "make": "GM Envolv",
+      "VIN": "35MGUFDY66PFNNAR9",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "07-06-2023",
+      "milesDriven": 201
+    },
+    {
+      "licensePlate": "P9G0KP2",
+      "make": "Ree",
+      "VIN": "RFL7HPDK3N61DX1DJ",
+      "model": "P7 chassis cab 2023",
+      "type": "Van",
+      "date": "04-05-2023",
+      "milesDriven": 279
+    },
+    {
+      "licensePlate": "CWYRHAS",
+      "make": "BYD Motors",
+      "VIN": "RHY7YFRW5808V9MP5",
+      "model": "K7M '30 Transit Bus, 2021",
+      "type": "Bus",
+      "date": "15-02-2024",
+      "milesDriven": 151
+    },
+    {
+      "licensePlate": "X0H4BN8",
+      "make": "Tesla",
+      "VIN": "3Z61XGUCJW9W05152",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "14-08-2023",
+      "milesDriven": 277
+    },
+    {
+      "licensePlate": "F2LAKAW",
+      "make": "GM Envolv",
+      "VIN": "9FMB13AATA6U31535",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "12-04-2023",
+      "milesDriven": 257
+    },
+    {
+      "licensePlate": "8YLTK6B",
+      "make": "GM Envolv",
+      "VIN": "VUVC60DCRHHCJ3ZA6",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "25-01-2024",
+      "milesDriven": 191
+    },
+    {
+      "licensePlate": "RTDZGM0",
+      "make": "Nikola",
+      "VIN": "2378NJU70BE767K6X",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "14-08-2023",
+      "milesDriven": 109
+    },
+    {
+      "licensePlate": "M4N03GW",
+      "make": "BYD Motors",
+      "VIN": "2WR47S9KYKGPGMSFM",
+      "model": "K7M '30 Transit Bus, 2021",
+      "type": "Bus",
+      "date": "23-09-2023",
+      "milesDriven": 203
+    },
+    {
+      "licensePlate": "XPD4LG0",
+      "make": "Tesla",
+      "VIN": "X1P1K92BUGRV0ZS4R",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "21-03-2024",
+      "milesDriven": 261
+    },
+    {
+      "licensePlate": "MXVDW1X",
+      "make": "Ree",
+      "VIN": "CACDJZYERZB0XGPED",
+      "model": "P7 chassis cab 2023",
+      "type": "Van",
+      "date": "12-09-2023",
+      "milesDriven": 267
+    },
+    {
+      "licensePlate": "UXJ4VN8",
+      "make": "Nikola",
+      "VIN": "DYDDFV57AN9TDMVSU",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "19-09-2023",
+      "milesDriven": 213
+    },
+    {
+      "licensePlate": "31CAKZH",
+      "make": "Nikola",
+      "VIN": "JW4H0MM6WVEVKCC3B",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "06-10-2023",
+      "milesDriven": 260
+    },
+    {
+      "licensePlate": "9B3LF7X",
+      "make": "Nikola",
+      "VIN": "LCLER06HX8RVLLGUC",
+      "model": "TRE BEV, 2022",
+      "type": "Truck",
+      "date": "05-12-2023",
+      "milesDriven": 237
+    },
+    {
+      "licensePlate": "CSW0CVM",
+      "make": "Tesla",
+      "VIN": "FKJB60ZA4M06ST3PY",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "19-12-2023",
+      "milesDriven": 248
+    },
+    {
+      "licensePlate": "335BG7L",
+      "make": "GM Envolv",
+      "VIN": "3JY7YLB7PM3TKL7CP",
+      "model": "Brightdrop zevo 600, 2022",
+      "type": "Van",
+      "date": "30-08-2023",
+      "milesDriven": 204
+    },
+    {
+      "licensePlate": "82WP4GE",
+      "make": "Tesla",
+      "VIN": "H2MS03L9LAH53AJM0",
+      "model": "Semi Delivery Event, 2022",
+      "type": "Truck",
+      "date": "10-02-2024",
+      "milesDriven": 208
+    },
+    {
+      "licensePlate": "EEPZF54",
+      "make": "BYD Auto",
+      "VIN": "J32NKJAZTC2DCDU86",
+      "model": "Class 6F cab & chassis 2022",
+      "type": "Truck",
+      "date": "15-03-2024",
+      "milesDriven": 268
+    },
+    {
+      "licensePlate": "B0CPZJV",
+      "make": "Ree",
+      "VIN": "83ZU26W48SU8WU1G5",
+      "model": "P7 chassis cab 2023",
+      "type": "Van",
+      "date": "02-10-2023",
+      "milesDriven": 141
+    }
+   ]
